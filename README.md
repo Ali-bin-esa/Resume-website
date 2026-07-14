@@ -26,4 +26,4 @@ This is part of my structured self-study roadmap toward becoming a GenAI Enginee
 
 ## 👤 Author
 
-Ali — BCA Student, Osmania University
+Ali-Bin-Esa
